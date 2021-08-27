@@ -1,0 +1,10 @@
+HeroePackage\Heroe.class
+VillanoPackage\VillanoDC.class
+FactoryPackage\AbstractFactory.class
+FactoryPackage\FactoryMarvel.class
+HeroePackage\HeroeDC.class
+FactoryPackage\FactoryDC.class
+HeroePackage\HeroeMarvel.class
+MainPackage\MainClass.class
+VillanoPackage\VillanoMarvel.class
+VillanoPackage\Villano.class
