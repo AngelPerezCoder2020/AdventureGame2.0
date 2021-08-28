@@ -1,6 +1,6 @@
 package VillanoPackage;
 
-public class Villano {
+public abstract class Villano {
     private String Nombre;
     private String Poder;
     public Villano(String Nombre, String Poder){

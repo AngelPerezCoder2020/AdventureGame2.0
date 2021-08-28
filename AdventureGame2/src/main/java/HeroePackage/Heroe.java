@@ -1,6 +1,6 @@
 package HeroePackage;
 
-public class Heroe {
+public abstract class Heroe {
     private String Nombre;
     private String Poder;
     public Heroe(String Nombre, String Poder){
